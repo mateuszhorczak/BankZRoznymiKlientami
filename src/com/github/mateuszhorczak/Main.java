@@ -29,8 +29,6 @@ public class Main {
         duzaFirma.dodajKonto(konto6);
         duzaFirma.dodajKonto(konto7);
 
-        System.out.println(duzaFirma);
-
         bank.dodajKlienta(osoba);
         bank.dodajKlienta(waznaOsoba);
         bank.dodajKlienta(firma);
